@@ -1,6 +1,6 @@
-## :robot: WELCOME TO MY GITHUB :robot:
+## WELCOME TO MY GITHUB 🏄
 
-My name is **Jardel Urban**, i'm a student of systems analysis and development at @Faculdade de Tecnolologia SENAI/SC, here are some of my projects
+My name is **Jardel Urban**, i'm a student of systems analysis and development at SENAI Florianópolis, here are some of my projects
 
 **And here are some my favorite technologies: :arrow_down:**
 
